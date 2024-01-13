@@ -20,4 +20,4 @@ It's for all animal lovers and for our cat overlords, when they get disposable t
 
 Insert gif or link to demo
 
-[cat gif](https://tenor.com/pwGy8A9r2Qo.gif)
+https://tenor.com/pwGy8A9r2Qo.gif
